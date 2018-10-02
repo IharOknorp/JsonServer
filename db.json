@@ -55,8 +55,8 @@
     }
 ],
     "authenticate": {
-    "username": "la4an", 
-        "password": "123",
+    "username": "Admin", 
+        "password": "12345",
         "token": "11a1a1a1-11a1-111a-a1a1-a1a1aa1aa1a1"
 }
 }

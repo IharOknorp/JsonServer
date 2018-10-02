@@ -1,12 +1,12 @@
 {
     "games": [
     {
-        "name": Jumper Prod,
+        "name": "Jumper Prod",
         "id": 1
         
     },
     {
-        "name": Jumper Dev,
+        "name": "Jumper Dev",
         "id": 2
     }
 ],
